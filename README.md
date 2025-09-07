@@ -14,3 +14,6 @@ This project demonstrates:
 1. In the green Code icon click and click the +sign to run Github codespaces
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run: `python main.py`
+4.Afte the program runs:
+5.  "john": {"password": "password123", "role": "admin"}
+6.  "julie": {"password": "secure456", "role": "user"}
