@@ -52,6 +52,10 @@ password = input("Password: ")
 user = authenticate(username, password)
 
 if user:
-    print(authorize(user))
+    if user["role"] == "admin":
+        print("Access granted to admin resources.")
+    else:
+        print("Access granted to user resources.")
 else:
     print("Authentication failed.")
+
