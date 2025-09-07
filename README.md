@@ -6,7 +6,7 @@ This project demonstrates:
 - Asymmetric encryption using RSA
 
 # Features
-- Users: `alice` (admin), `bob` (user)
+- Users: `john` (admin), `julie` (user)
 - Encrypted message: "Confidential data"
 - Keys, inputs, and outputs logged in `encryption_demo.txt`
 
