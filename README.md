@@ -11,5 +11,6 @@ This project demonstrates:
 - Keys, inputs, and outputs logged in `encryption_demo.txt`
 
 # How to Run
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run: `python main.py`
+1. In the green Code icon click and click the +sign to run Github codespaces
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run: `python main.py`
